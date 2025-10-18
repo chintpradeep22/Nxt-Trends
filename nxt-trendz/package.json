@@ -1,0 +1,37 @@
+{
+  "name": "nxt-trendz-cart-features",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "chalk": "4.1.0",
+    "history": "5.0.0",
+    "js-cookie": "3.0.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-icons": "4.2.0",
+    "react-loader-spinner": "4.0.0",
+    "react-router-dom": "5.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "development": [
+      "last 2 chrome versions",
+      "last 2 firefox versions",
+      "last 2 edge versions"
+    ],
+    "production": [
+      ">1%",
+      "last 4 versions",
+      "Firefox ESR",
+      "not ie < 11"
+    ]
+  }
+}

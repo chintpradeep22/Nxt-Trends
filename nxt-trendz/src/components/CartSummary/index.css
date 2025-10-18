@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.cart-order-summary {
+  background-color: #f9f9f9;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  text-align: center;
+  max-width: 400px;
+  margin: 40px auto;
+  font-family: 'Roboto', sans-serif;
+}
+
+.cart-order-summary h1 {
+  font-size: 24px;
+  color: #1e293b;
+  margin-bottom: 12px;
+}
+
+.cart-order-summary p {
+  font-size: 18px;
+  color: #475569;
+  margin-bottom: 20px;
+}
+
+.cart-order-summary button {
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.cart-order-summary button:hover {
+  background-color: #2563eb;
+}
