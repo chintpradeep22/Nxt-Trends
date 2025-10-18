@@ -10,6 +10,14 @@ Nxt-Trendz is a React-based e-commerce web application that allows users to brow
 
 ---
 
+## 🔑 Demo Login Credentials  
+
+To explore the app, use the following demo credentials:  
+
+- **Username / Email**: `rahul`  
+- **Password**: `rahul@2021`
+---
+
 ## ⚙️ Features
 
 ### 👥 User Features
